@@ -6,5 +6,5 @@
 * 🧑  My real name is Peter Zavadskii
 * 🌍  I'm based in Innopolis (Russia)
 * 🖥️  See my CV [here](https://drive.google.com/file/d/1cp4N_DtP7XVLfFk2Lu5o2OUuSz9nRwwT/view?usp=sharing)
-* ✉️  You can contact me in [telegram](mailto:https://t.me/user_abraham)
+* ✉️  You can contact me in [telegram](https://t.me/user_abraham)
 
